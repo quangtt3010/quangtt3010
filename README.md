@@ -5,7 +5,7 @@
 - 🔭 I’m working on: Web App, API, Frontend + Backend  
 - 🌱 Learning: React, NodeJS, Express, MongoDB  
 - 💬 Ask me about: JavaScript, Python, REST API  
-- 📫 Contact: yourgmail@gmail.com
+- 📫 Contact: trantungquang1234@gmail.com
 
 ---
 
@@ -25,16 +25,6 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🏆 Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia)
 
 ---
 
