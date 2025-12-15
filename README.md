@@ -30,5 +30,7 @@
 
 ---
 
-## 🎉 Fun GIF
-[<img src="https://media.giphy.com/media/H7cFxXvO0jwXO/giphy.gif" width="200" />](https://media.giphy.com/media/11YMhfLfGoq5Gg/giphy.gif)
+## 🐉 Git Goku
+
+<img src="https://media.giphy.com/media/11YMhfLfGoq5Gg/giphy.gif" width="400"/>
+
